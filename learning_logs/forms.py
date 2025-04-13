@@ -1,3 +1,9 @@
+"""
+Copyright © 2024-2025 ELYES. All Rights Reserved.
+
+Learning Log Forms
+"""
+
 from django import forms
 from .models import Topic, Entry
 

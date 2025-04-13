@@ -1,3 +1,9 @@
+"""
+Copyright © 2024-2025 ELYES. All Rights Reserved.
+
+Users App Views
+"""
+
 from django.shortcuts import render
 from django.http import HttpResponseRedirect
 from django.urls import reverse

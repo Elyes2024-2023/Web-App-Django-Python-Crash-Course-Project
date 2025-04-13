@@ -1,3 +1,9 @@
+"""
+Copyright © 2024-2025 ELYES. All Rights Reserved.
+
+Learning Log Views
+"""
+
 from django.shortcuts import render
 from django.http import HttpResponseRedirect, Http404
 from django.urls import reverse

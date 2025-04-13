@@ -1,3 +1,7 @@
+# Learning Log Web Application
+
+Copyright © 2024-2025 ELYES. All Rights Reserved.
+
 This is an implementation of Django Web App from *Python Crash Course* chapter 18~20.
 
 Update with Django 2.1 and Bootstrap4

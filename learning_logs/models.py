@@ -1,3 +1,9 @@
+"""
+Copyright © 2024-2025 ELYES. All Rights Reserved.
+
+Learning Log Models
+"""
+
 from django.db import models
 from django.contrib.auth.models import User
 
